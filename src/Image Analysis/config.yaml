@@ -1,0 +1,8 @@
+path: C:\Users\SELUAHI\OneDrive - Alfa Laval\Documents\Maskinteknik år 5\Omnibot - Project F_v2\group-f\data\dataset
+train: images/
+val: images/
+
+#classes 
+names:
+  0: robot
+  1: asteroid
